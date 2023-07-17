@@ -1,0 +1,9 @@
+{
+    "vscode.tsc.compiler.alertTSConfigChanges": "never",
+    "vscode.tsc.compiler.alertOnError": "never",
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#24302E",
+        "titleBar.activeBackground": "#334340",
+        "titleBar.activeForeground": "#F9FAFA"
+    }
+}
